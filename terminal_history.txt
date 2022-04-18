@@ -1,0 +1,50 @@
+ 1332  cd ..
+ 1333  ls
+ 1334  cd 02-Sharpe_Ratios
+ 1335  jupyter lab
+ 1336  cd ..
+ 1337  ls
+ 1338  cd week\ 4,\ 2
+ 1339  ls
+ 1340  jupyter lab
+ 1341  cd ..
+ 1342  jupyter lab
+ 1343  ls
+ 1344  cd ..
+ 1345  cd ..
+ 1346  cd documents
+ 1347  ls
+ 1348  cd Challenges
+ 1349  ls
+ 1350  cd module_4_challenge
+ 1351  git add .
+ 1352  git commit . -m "initial commit with starter files"
+ 1353  git push
+ 1354  git status
+ 1355  git status
+ 1356  jupyter lab
+ 1357  git add .
+ 1358  git commit . -m "imported data and created daily_returns dataframe"
+ 1359  git push
+ 1360  jupyter lab
+ 1361  git add .
+ 1362  git commit . -m "Performance analysis complete"
+ 1363  git push
+ 1364  jupyter lab
+ 1365  git add .
+ 1366  git commit . -m "Risk analysis complete"
+ 1367  git push
+ 1368  jupyter lab
+ 1369  git add .
+ 1370  git commit . -m "Risk and volatility analysis complete"
+ 1371  git push
+ 1372  jupyter lab
+ 1373  git add .
+ 1374  git commit . -m "risk-return profile analysis complete"
+ 1375  git push
+ 1376  jupyter lab
+ 1377  git add .
+ 1378  git commit . -m "analysis complete, portfolio chosen"
+ 1379  git push
+ 1380  history -50 terminal_history.txt
+ 1381  history -50
